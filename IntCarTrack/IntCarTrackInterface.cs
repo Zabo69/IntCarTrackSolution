@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace IntCarTrack
+namespace IntCarTrackInterface
 {
     public class Rootobject
     {

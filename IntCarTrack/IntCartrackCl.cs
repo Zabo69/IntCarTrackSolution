@@ -1,4 +1,5 @@
 ﻿using IntCarTrack;
+using IntCarTrackInterface;
 using Newtonsoft.Json;
 using RestWsAutarquias;
 using System;
@@ -10,7 +11,7 @@ using System.Threading.Tasks;
 
 namespace IntCarTrack
 {
-    public  class retorno
+    public class retorno
     {
         public string valor = "";
         public string mensagem = "";

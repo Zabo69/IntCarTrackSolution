@@ -1,4 +1,6 @@
 ﻿using IntCarTrack;
+using IntCarTrack.CartrackSoap;
+using IntCarTrackInterface;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -14,13 +16,10 @@ namespace IntCarTrack
 
         public retorno Process(Rootobject pedido)
         {
+            endpoint _cartrack;
             retorno RET = new retorno();
             string _retorno;
             Dictionary<string, string> _dic = pedido.provider.auth.ToDictionary(t => t.campo, t => t.valor);
-
-
-            CartrackSoap.endpoint _cartrack;
-
             System.Net.NetworkCredential _cred = new System.Net.NetworkCredential(_dic["user"].Trim(), _dic["pass"]);
             // entityID =  _dic["entityID"];
 

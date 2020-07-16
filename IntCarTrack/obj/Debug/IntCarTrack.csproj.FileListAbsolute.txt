@@ -16,3 +16,12 @@ C:\Users\avelino oliveira\source\repos\IntCarTrackSolution\IntCarTrack\obj\Debug
 C:\Users\avelino oliveira\source\repos\IntCarTrackSolution\IntCarTrack\obj\Debug\IntCarTrack.csproj.CopyComplete
 C:\Users\avelino oliveira\source\repos\IntCarTrackSolution\IntCarTrack\obj\Debug\IntCarTrack.dll
 C:\Users\avelino oliveira\source\repos\IntCarTrackSolution\IntCarTrack\obj\Debug\IntCarTrack.pdb
+C:\avelino\IntCarTrackSolution\IntCarTrack\bin\Debug\IntCarTrack.dll.config
+C:\avelino\IntCarTrackSolution\IntCarTrack\bin\Debug\IntCarTrack.dll
+C:\avelino\IntCarTrackSolution\IntCarTrack\bin\Debug\IntCarTrack.pdb
+C:\avelino\IntCarTrackSolution\IntCarTrack\bin\Debug\Newtonsoft.Json.dll
+C:\avelino\IntCarTrackSolution\IntCarTrack\bin\Debug\Newtonsoft.Json.xml
+C:\avelino\IntCarTrackSolution\IntCarTrack\obj\Debug\IntCarTrack.csprojAssemblyReference.cache
+C:\avelino\IntCarTrackSolution\IntCarTrack\obj\Debug\IntCarTrack.csproj.CopyComplete
+C:\avelino\IntCarTrackSolution\IntCarTrack\obj\Debug\IntCarTrack.dll
+C:\avelino\IntCarTrackSolution\IntCarTrack\obj\Debug\IntCarTrack.pdb

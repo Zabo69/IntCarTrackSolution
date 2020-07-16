@@ -11,3 +11,16 @@ C:\Users\avelino oliveira\source\repos\IntCarTrackSolution\ConsoleApp1\obj\Debug
 C:\Users\avelino oliveira\source\repos\IntCarTrackSolution\ConsoleApp1\obj\Debug\ConsoleApp1.exe
 C:\Users\avelino oliveira\source\repos\IntCarTrackSolution\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
 C:\Users\avelino oliveira\source\repos\IntCarTrackSolution\ConsoleApp1\bin\Debug\pedidoCartrack.json
+C:\avelino\IntCarTrackSolution\ConsoleApp1\bin\Debug\pedidoCartrack.json
+C:\avelino\IntCarTrackSolution\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\avelino\IntCarTrackSolution\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\avelino\IntCarTrackSolution\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\avelino\IntCarTrackSolution\ConsoleApp1\bin\Debug\IntCarTrack.dll
+C:\avelino\IntCarTrackSolution\ConsoleApp1\bin\Debug\Newtonsoft.Json.dll
+C:\avelino\IntCarTrackSolution\ConsoleApp1\bin\Debug\IntCarTrack.pdb
+C:\avelino\IntCarTrackSolution\ConsoleApp1\bin\Debug\IntCarTrack.dll.config
+C:\avelino\IntCarTrackSolution\ConsoleApp1\bin\Debug\Newtonsoft.Json.xml
+C:\avelino\IntCarTrackSolution\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\avelino\IntCarTrackSolution\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\avelino\IntCarTrackSolution\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\avelino\IntCarTrackSolution\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
