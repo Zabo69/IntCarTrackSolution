@@ -1,0 +1,27 @@
+﻿{
+  "log": "c:\\temp\\",
+  "operacao": {
+    "argumentos": [
+      {
+        "campo": "matricula",
+        "valor": ""
+      }
+    ],
+    "accao": "LASTPOSITIONS",
+    "modo": ""
+  },
+  "provider": {
+    "nome": "CARTRACK",
+    "baseuri": "https://fleet4.cartrack.pt/api/?wsdl",
+    "auth": [
+      {
+        "campo": "user",
+        "valor": "CAMA00059"
+      },
+      {
+        "campo": "pass",
+        "valor": "Municipal1/"
+      }
+    ]
+  }
+}
