@@ -1,8 +1,11 @@
 ﻿<?xml version='1.0' encoding='utf-8'?>
-<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ConsoleApp1.Properties" GeneratedClassName="Settings">
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="IntCarTrack.Properties" GeneratedClassName="Settings">
   <Profiles />
   <Settings>
     <Setting Name="ConsoleApp1_CartrackSoap_endpoint" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://fleet4.cartrack.pt:443/api/index.php</Value>
+    </Setting>
+    <Setting Name="IntCarTrack_pt_cartrack_fleet4_endpoint" Type="(Web Service URL)" Scope="Application">
       <Value Profile="(Default)">https://fleet4.cartrack.pt:443/api/index.php</Value>
     </Setting>
   </Settings>

@@ -35,6 +35,7 @@ namespace IntCarTrackInterface
         public decimal odometer { get; set; }
         public string posicao_desc { get; set; }
         public string identificacao { get; set; }
+        public string estado { get; set; }
 
 
     }

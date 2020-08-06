@@ -32,5 +32,15 @@ namespace IntCarTrack.Properties {
                 return ((string)(this["ConsoleApp1_CartrackSoap_endpoint"]));
             }
         }
+        
+        [global::System.Configuration.ApplicationScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.WebServiceUrl)]
+        [global::System.Configuration.DefaultSettingValueAttribute("https://fleet4.cartrack.pt:443/api/index.php")]
+        public string IntCarTrack_pt_cartrack_fleet4_endpoint {
+            get {
+                return ((string)(this["IntCarTrack_pt_cartrack_fleet4_endpoint"]));
+            }
+        }
     }
 }

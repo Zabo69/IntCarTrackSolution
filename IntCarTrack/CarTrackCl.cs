@@ -99,7 +99,8 @@ namespace IntCarTrack
                                 matricula = _row.o_registration,
                                 odometer = _row.o_odometer,
                                 posicao_desc = _row.o_position_description,
-                                velocidade = _row.o_speed
+                                velocidade = _row.o_speed,
+                                 estado=_row.o_ignition.ToString()
                             }
                             );
                         }
